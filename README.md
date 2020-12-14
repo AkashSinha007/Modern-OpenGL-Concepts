@@ -61,3 +61,5 @@
     2. Mouse movements to capture pitch and left/right rotation	view
 	3. Scrolling Mouse Up : +Zoom ;  Scrolling Mouse Down: -Zoom
 	
+##Final Output
+	![alt text](https://github.com/AkashSinha007/Modern-OpenGL-Concepts/blob/main/OpenGLConcepts/BasicConcepts/FinishedProduct.PNG)
