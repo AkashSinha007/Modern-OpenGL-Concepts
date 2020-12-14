@@ -4,7 +4,7 @@
 ##Project Description
 	This project is creted to touch upon basic concepts of OpenGL.
 	Some of the basic concepts included in here are:
-		1.Handling model,view, projection matrices, transformation 
+		1.Handling model,view, projection matrices, transformation
 		2.Use of flexible Modern pipeline through shaders( files written in GLSL language)
 		3.Texture Processing
 		4.Handling Keyboard and Mouse inputs
@@ -12,7 +12,7 @@
 
 ##Build Information and Dependencies
 	The Development Plantform/Environment is Windows.
-	The project uses Visual Studio 2019 IDE for Building/Editing the project
+	The project uses Visual Studio 2019 IDE for Building/Editing the project.
 	MSVC (C++) compiler (32-bit) is used for compilation and build. 
 	
 	###Dependencies
